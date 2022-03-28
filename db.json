@@ -1,0 +1,81 @@
+{
+    "jobs": [{
+        "name": "CTO",
+        "id": 1
+    }, {
+        "name": "Full Stack",
+        "id": 2
+    }, {
+        "name": "CEO",
+        "id": 3
+    }],
+    "cities": [{
+        "id": 1,
+        "name": "Paris"
+    }, {
+        "id": 2,
+        "name": "Lille"
+    }, {
+        "id": 3,
+        "name": "Lisbon"
+    }, {
+        "id": 4,
+        "name": "Barcelona"
+    }, {
+        "id": 5,
+        "name": "Madrid"
+    }],
+    "backgrounds": [{
+        "id": 1,
+        "name": "HEC"
+    }, {
+        "id": 2,
+        "name": "ESSEC"
+    }, {
+        "id": 3,
+        "name": "EDHEC"
+    }, {
+        "id": 4,
+        "name": "UCLA"
+    }, {
+        "id": 5,
+        "name": "UCL"
+    }],
+    "languages": [{
+        "id": 1,
+        "name": "Français"
+    }, {
+        "id": 2,
+        "name": "Anglais"
+    }, {
+        "id": 3,
+        "name": "Espagnol"
+    }, {
+        "id": 4,
+        "name": "Portugais"
+    }, {
+        "id": 5,
+        "name": "Madrid"
+    }],
+    "technologies": [{
+            "name": "Javascript",
+            "id": 4
+        },
+        {
+            "name": "Python",
+            "id": 12
+        },
+        {
+            "name": "Ruby",
+            "id": 20
+        },
+        {
+            "name": "Django",
+            "id": 14
+        },
+        {
+            "name": "Vue",
+            "id": 8
+        }
+    ]
+}
